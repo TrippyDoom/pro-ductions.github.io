@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Pro-Ductions official Website!
 
-You can use the [editor on GitHub](https://github.com/TrippyDoom/pro-ductions.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Alexander. I'm a Swedish developer. Who makes .bat programs.
+We are not big at all, we're really small. Accually only 2 people.
+And, i would like to thank you, for visiting our Website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Call me (Alexander.) Mr. Clocklock or Clocklock.
+I use that nickname everywhere, so remember it.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +28,19 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Software
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Download WEX here: [Download on GitHub](https://github.com/TrippyDoom/WEX)
+WEX is a "DoS'ing" program, filled with IP-Stresser, System Root Scanner, Automatic IP-Config, Remote Shutdown.
+Password is: Clocklock. For unlocking the program.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TrippyDoom/pro-ductions.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Programming Language
 
-### Support or Contact
+I (Mr. Clocklock) program in .bat, it's good for making MS-DOS programs/command-line programs.
+It's easy to learn too! Just search up "Bat Programming" on YouTube. And you will get tons of helpful tutorials.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Us!
+
+Having trouble? Tweet at Mr. Clocklock here, or just dm me with info, and i will get back to you.
+https://twitter.com/MrClocklock
